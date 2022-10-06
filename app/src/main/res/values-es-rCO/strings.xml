@@ -2,4 +2,5 @@
 <resources>
     <string name="app_name">HolaAplimovil</string>
     <string name="bt_ingresar_txt">ingresar</string>
+    <string name="lablel_bienvenido">bienvenido</string>
 </resources>
